@@ -3,7 +3,7 @@ version = 0.1
 [production]
 [production.deploy]
 [production.deploy.parameters]
-stack_name = "todo-list-aws-production"
+stack_name = "todo-lists-aws-production"
 s3_bucket = "aws-sam-cli-managed-production-samclisourcebucket-upt09go84tay"
 s3_prefix = "todo-list-aws"
 region = "us-east-1"
